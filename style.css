@@ -1,0 +1,27 @@
+/*
+Theme Name: WebAgent
+*/
+
+body {
+	/* background-color: lightblue !important; */
+}
+
+.works-container {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.our-works-wrap {
+	width: 690px;
+}
+
+.wpcf7-form {
+	display: flex;
+	justify-content: center;
+}
+
+.submit-wrapper {
+	width: 100%;
+}
